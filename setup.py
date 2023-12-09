@@ -10,6 +10,9 @@ setup(
         'jenkins_tool': [
             "python_jenkins"
         ],
+        'gitlab_tool': [
+
+        ],
     },
     classifiers=[
         'Development Status :: 3 - Alpha',
